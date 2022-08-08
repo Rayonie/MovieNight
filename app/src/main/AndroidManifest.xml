@@ -14,7 +14,7 @@
             android:name=".EditActivity"
             android:exported="false" />
         <activity
-            android:name=".ShowSongActivity"
+            android:name=".ShowMovieActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
